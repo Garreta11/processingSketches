@@ -28,6 +28,4 @@ void draw() {
     }
   }
   frame_number++;
-  
-  saveFrame("output/spiralCircle_####.png");
 }
